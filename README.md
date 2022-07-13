@@ -5,8 +5,3 @@ lorem
 ```xyz
 ipsum
 ```
-
-
-```math
-dolor
-```
